@@ -8,3 +8,6 @@ Tech used:
 - Basic GA evolving a small neural network
 - 5 inputs with 1 hidden layery containing 24 nodes
 - used np.tanh() >.2 for final output (flap / not flap)
+
+running it is pretty simple, just open a terminal shell in this folder and run flappy.py
+there are some config flags at the top of the file so be sure to either save a copy of your data before overwriting your save
