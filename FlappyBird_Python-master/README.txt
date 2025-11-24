@@ -11,3 +11,4 @@ Tech used:
 
 running it is pretty simple, just open a terminal shell in this folder and run flappy.py
 there are some config flags at the top of the file so be sure to either save a copy of your data before overwriting your save
+Currently inside the game is my solved working bird, so it should read that in from the file.
